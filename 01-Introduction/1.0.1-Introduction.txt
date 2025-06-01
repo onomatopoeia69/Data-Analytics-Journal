@@ -1,0 +1,14 @@
+
+What is Data Analytics ? 
+
+- Data analytics is the process of taking that data and using it to answer questions, identify trends, and extract insights that enable organizations to make better decisions.
+
+----
+
+
+What I will learn in this Module ?
+
+Analytics In RealTime  - Explain the value of the Data Analytics.
+Data Analytics in Action - Describe the phase in the analytic process.
+
+
