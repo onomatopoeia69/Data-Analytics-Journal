@@ -6,7 +6,7 @@ This repository contains my Data Analytics learning journey. Each folder is a st
 
 1. [01 - Introduction](./01-Introduction)
 2. [01.1 - Analytics In Real Time](./1.1-Analytics-In-Real-Time)
-3. [01.2 - Data Analytics In Action](./1.2-Data-Analytics-In-Action)
+3. [01.2 - Data Analytics In Action](./1.2-Data-Analytics-in-Action)
 
 
 ## How to Use
