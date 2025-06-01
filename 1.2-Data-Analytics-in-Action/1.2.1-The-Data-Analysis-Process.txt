@@ -1,0 +1,9 @@
+There are many different models of data analytics, and in this course, we will use the six-step Data Analysis Lifecycle shown in the figure below. Think of this model as iterative, meaning that some steps could be repeated multiple times before decision makers are confident enough to move forward to the next step.
+
+* Asking the Question - The analytics process always starts with a question to be answered. Some questions are simple, such as “which bicycle color is most popular with our younger buyers?” Others are very complex, such as “why are certain types of cancer cells exhibiting resistance to radiation treatments?”
+* Getting the data - This step involves the process of locating and obtaining data that is relevant to the question, and then determining if there is enough data to complete the analysis.
+* Investigating the data - Data comes in many forms and from many different sources. This step involves determining if the data is complete and contains the relevant information for the analysis.
+* Preparing the data - This step can involve many tasks to transform the data into a format appropriate for the tools that will be used to analyze and present the data. This process is sometimes referred to as “cleaning” the data, because there may be blank records or obvious errors in the data set.
+* Analyzing the data - Analysis is the process of identifying patterns, correlations, and relationships contained within a data set or sets to draw inferences and conclusions. Often, analysis relies on statistical techniques and software tools such as spreadsheets and visualization applications.
+* Presenting the results - This is usually the last step for data analysts. It is the process of communicating the results to decision-makers. This can be done in the form of a report, graphical representations, or a combination of both. Sometimes the data analyst is also asked to recommend actions based on results.
+
