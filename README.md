@@ -5,6 +5,7 @@ This repository contains my Data Analytics learning journey. Each folder is a st
 ## Table of Contents
 
 1. [01 - Introduction](./01-Introduction)
+2. [01.1 - Analytics In Real Time](./1.1-Analytics-In-Real-Time)
 
 
 ## How to Use

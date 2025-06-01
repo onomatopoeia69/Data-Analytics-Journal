@@ -1,0 +1,28 @@
+What began with a small number of organizations using analytics to uncover insights into customer and employee behaviors has become an outright revolution in how business decisions are made. Until recently, data analytics involved looking at historical data to uncover trends, patterns and other descriptive information about an organization. Data sets used for this type of analysis—called descriptive analytics—contain static data such as customer transactions, inventory levels, or defect reports. This type of data is not usually analyzed immediately; in fact, most of it is compiled and analyzed on a monthly or quarterly basis.
+
+The primary goal of traditional data analysis is to present information in a way that is easy for non-technical decision makers to understand. The results of descriptive analytics are highly accurate because the data usually doesn’t change during the analysis. Examples of insights uncovered through traditional analytics include past product performance, company profitability, inventory lead times, and advertising program success.
+
+While traditional descriptive analytics still play an important role in decision-making support for all types of organizations, it is no longer enough only to run descriptive analysis on data from the previous fiscal year. To remain competitive, organizations must be able to use data analytics to react quickly to current conditions and make reliable predictions of future behaviors. This is where next-generation analytics comes in.
+
+Advances in the collection, storage and retrieval of real-time data make possible the analysis of all types of data from many sources, such as documents, images, entries in social media or e-commerce sites, and even sensors inside home appliances.
+
+Due to the vast amount of data now being collected, new insights can be gained from analyses to inform more effective decision making. Examples of organizations using advanced analytics to improve their operations include:
+
+A bank immediately analyzing each account transaction to identify potentially fraudulent activity.
+A manufacturer constantly monitoring defect reports in order to modify production processes as quickly as possible.
+A retailer instantly responding to customer reviews and adjusting products or sales strategies accordingly.
+Now, rather than relying on management instinct and past performance, organizations can use real-time data to achieve rapid, transformative change in their operations and processes. Data analysts and other data science professionals are at the forefront of this revolution!
+
+
+Comparison of Advance Analytics and Traditional Analytics
+
+| Feature        | Traditional Analytics                      | Advanced Analytics                                       |
+| -------------- | ------------------------------------------ | -------------------------------------------------------- |
+| **Goal**       | Understand **what happened** in the past   | Predict **what will happen** or prescribe **what to do** |
+| **Data Usage** | Historical, structured data                | Structured, semi-structured, and unstructured data       |
+| **Techniques** | Descriptive & diagnostic                   | Predictive, prescriptive, machine learning               |
+| **Tools**      | Excel, SQL, basic BI tools (e.g., Tableau) | Python, R, Spark, ML frameworks, AI platforms            |
+| **Output**     | Reports, dashboards, KPIs                  | Forecasts, recommendations, automation                   |
+| **Users**      | Business analysts, managers                | Data scientists, AI/ML engineers                         |
+| **Examples**   | Sales reports, customer summaries          | Fraud detection, product recommendations                 |
+
